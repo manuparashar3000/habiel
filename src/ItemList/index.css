@@ -1,0 +1,16 @@
+.listOfItems .false {
+    color: red;
+}
+
+table {
+    width: 50%;
+    border: 1px solid black;
+    border-collapse: collapse;
+}
+
+td,th {
+    text-align: left;
+    border: 1px solid black;
+    border-collapse: collapse;
+    padding: 5px
+  }
